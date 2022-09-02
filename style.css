@@ -23,13 +23,13 @@ body
 }
 .deposit
 {
-   background-color: slateblue;
+   background-color: lightgreen;
 }
 .withdraw
 {
-    background-color: lightsalmon;
+    background-color: burlywood;
 }
 .balance
 {
-   background-color: orange;
+   background-color: gold;
 }
